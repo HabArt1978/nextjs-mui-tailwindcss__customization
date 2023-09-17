@@ -1,0 +1,3 @@
+npx create-next-app@latest --experimental-app nextjs13-with-mui-and-tailwindcss --typescript
+
+npm install @mui/material @emotion/react @emotion/styled
